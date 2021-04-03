@@ -84,16 +84,41 @@
 # for i in range (n - 1):
 #     print(num[i] + num[i+1])
 
-one_list = []
 
-for i in range(int(input())):
-    one_list.append(input())
-    analiz = []
 
-for j in range(int(input())):
-    analiz.append (input())
 
-for s in analiz:
-    if s in one_list:
-        print(s)
+# one_list = []
+
+# for i in range(int(input())):
+#     one_list.append(input())
+#     analiz = []
+
+# for j in range(int(input())):
+#     analiz.append (input())
+
+# for s in analiz:
+#     if s in one_list:
+#         print(s)
+
+
+
+
+# Новая тема: Кортеж
+
+
+#  tuple_one = (18)
+#  tuple_two = tuple()
+#  print(tuple_one)
+#  print (tupl_one[0])
+ 
+#  print(type(tryple_one))
+
+
+
+
+
+
+
+
+
 
